@@ -7,7 +7,8 @@
 [![Platform](https://img.shields.io/badge/Платформа-Ubuntu%20%2F%20Debian%20%2F%20Arch-purple?style=for-the-badge&logo=linux)](https://ubuntu.com)
 [![DNSSEC](https://img.shields.io/badge/DNSSEC-включён-blue?style=for-the-badge)](https://www.icann.org/resources/pages/dnssec-what-is-it-why-important-2019-03-05-en)
 
-**Приватный DNS-сервер с блокировкой рекламы, DNSSEC и чистой рекурсией — один скрипт, никакой магии.**
+**Приватный DNS-сервер с блокировкой рекламы, 
+DNSSEC и чистой рекурсией — один скрипт, никакой магии.**
 
 *AdGuard Home (фильтрация) · Unbound (рекурсия от корней) · DNSSEC · iptables · Let's Encrypt*
 
