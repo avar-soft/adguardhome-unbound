@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🛡️ DNS Server: Unbound + AdGuard Home
 
 [![Bash](https://img.shields.io/badge/Bash-4.0+-green?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
@@ -9,6 +11,8 @@
 **Приватный DNS-сервер с блокировкой рекламы, DNSSEC и чистой рекурсией — один скрипт, никакой магии.**
 
 *AdGuard Home (фильтрация) · Unbound (рекурсия от корней) · DNSSEC · iptables + fail2ban · sysctl hardening · watchdog самовосстановления · Let's Encrypt*
+
+</div>
 
 ---
 
@@ -429,8 +433,14 @@ Pull requests приветствуются. Для значительных из
 
 ## 📄 Лицензия
 
----
+MIT © [avar-soft](https://github.com/avar-soft)
 
-**Сделано для тех, кто ценит приватность и не хочет разбираться с DNS вручную каждый раз.**
+---
+<div align="center">
+  
+**Сделано с ❤️ для тех, кто ценит автоматизацию и чистые конфиги**
 
 ⭐ Если проект полезен — поставь звезду!
+
+</div>
+
